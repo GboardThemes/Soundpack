@@ -8,5 +8,21 @@
     "author": "Jame Benedict",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/Bruh.zip",
     "title": "Bruh Sound Effect #2"
+  },
+  {
+    "author": "Samsung",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/Samsung.zip",
+    "title": "Samsung Keyboard"
+  },
+  {
+    "author": "Microsoft",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/windows.zip",
+    "title": "Windows Phone"
+  },
+  {
+    "author": "Google",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/aosp.zip",
+    "title": "aosp"
   }
+  
 ]
