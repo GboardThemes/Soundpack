@@ -43,5 +43,20 @@
     "author": "hamburger",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/hamburger.zip",
     "title": "hamburger"
- }
+ },
+   {
+    "author": "Sony",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/XperiaZ1.zip",
+    "title": "XperiaZ1"
+ },
+   {
+    "author": "HTC",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/htcone.zip",
+    "title": "htc one"
+ },
+   {
+    "author": "Xiaomi",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/miui6.zip",
+    "title": "Miui 6"
+ },
 ]
