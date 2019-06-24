@@ -33,5 +33,15 @@
     "author": "RKBDI",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/mechanical.zip",
     "title": "Mechanical keyboard"
-  }
+  },
+   {
+    "author": "Sony",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/XperiaLegacy.zip",
+    "title": "Xperia legacy"
+ },
+  {
+    "author": "hamburger",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/hamburger.zip",
+    "title": "hamburger"
+ }
 ]
