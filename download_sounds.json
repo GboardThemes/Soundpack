@@ -9,11 +9,11 @@
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/Bruh.zip",
     "title": "Bruh Sound Effect #2"
   },
-   {
+  {
     "author": "EA",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/NFS.zip",
-    "title": "Need For Speed Underground"
- },
+    "title": "Need for Speed: Underground"
+  },
   {
     "author": "Samsung",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/Samsung.zip",
@@ -38,7 +38,7 @@
     "author": "tobyfox",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/sans.zip",
     "title": "Undertale Sans"
- },
+  },
   {
     "author": "RKBDI",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/mechanical.zip",
@@ -48,130 +48,130 @@
     "author": "hamburger",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/hamburger.zip",
     "title": "hamburger"
- },
-   {
+  },
+  {
     "author": "Sony",
     "url": "https://github.com/GboardThemes/Soundpack/blob/master/Xperiaz1.zip?raw=true",
     "title": "Xperia"
- },
-   {
+  },
+  {
     "author": "HTC",
     "url": "https://github.com/GboardThemes/Soundpack/blob/master/htcone.zip?raw=true",
     "title": "htc"
- },
-   {
+  },
+  {
     "author": "Xiaomi",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/miui6.zip",
     "title": "Miui 6"
   },
-   {
+  {
     "author": "Mojang",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/minecraft.zip",
     "title": "Minecraft"
- },
-   {
+  },
+  {
     "author": "Gabe The Dog",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/gabe.zip",
     "title": "bork"
- },
-   {
+  },
+  {
     "author": "Google",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/Pixel.zip",
     "title": "Pixel"
- },
-   {
-    "author": "Activision",
+  },
+  {
+    "author": "Infinity Ward",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/COD.zip",
-    "title": "Call of Duty (2003)"
- },
-   {
-    "author": "Activision",
+    "title": "'03 Call of Duty"
+  },
+  {
+    "author": "Infinity Ward",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/COD2.zip",
-    "title": "Call of Duty 2 (2005)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBO.zip",
-    "title": "Call of Duty BO (2010)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOCW.zip",
-    "title": "Call of Duty BOCW (2020)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOIII.zip",
-    "title": "Call of Duty BOII (2012)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOIII2015.zip",
-    "title": "Call of Duty BOIII (2015)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW3.zip",
-    "title": "Call of Duty MW (2019)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW2019.zip",
-    "title": "Call of Duty MW2 (2009)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW22009.zip",
-    "title": "Call of Duty MW3 (2011)"
- },
-   {
-    "author": "Activision",
-    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMWR.zip",
-    "title": "Call of Duty MWR (2016)"
- },
-   {
-    "author": "Activision",
+    "title": "'05 Call of Duty 2"
+  },
+  {
+    "author": "Treyarch",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODWAW.zip",
-    "title": "Call of Duty WAW (2008)"
- },
-   {
+    "title": "'08 Call of Duty WAW"
+  },
+  {
+    "author": "Infinity Ward",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW2019.zip",
+    "title": "'09 Call of Duty MW2"
+  },
+  {
+    "author": "Treyarch",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBO.zip",
+    "title": "'10 Call of Duty BO"
+  },
+  {
+    "author": "Infinity Ward",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW22009.zip",
+    "title": "'11 Call of Duty MW3"
+  },
+  {
+    "author": "Treyarch",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOII.zip",
+    "title": "'12 Call of Duty BOII"
+  },
+  {
+    "author": "Treyarch",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOIII2015.zip",
+    "title": "'15 Call of Duty BOIII"
+  },
+  {
+    "author": "Raven Software",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMWR.zip",
+    "title": "'16 Call of Duty MWR"
+  },
+  {
+    "author": "Infinity Ward",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODMW3.zip",
+    "title": "'19 Call of Duty MW"
+  },
+  {
+    "author": "Raven Software",
+    "url": "https://github.com/GboardThemes/Soundpack/raw/master/CODBOCW.zip",
+    "title": "'20 Call of Duty BOCW"
+  },
+  {
     "author": "Introversion Software",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/DEFCON.zip",
     "title": "DEFCON"
- },
-   {
+  },
+  {
     "author": "Valve",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/DOTA2.zip",
     "title": "Dota 2"
- },
-   {
+  },
+  {
     "author": "Valve",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/HL2.zip",
-    "title": "Half Life 2"
- },
-   {
-    "author": "Curve Digital",
+    "title": "Half-Life 2"
+  },
+  {
+    "author": "Sumo Digital",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/hotshotracing.zip",
     "title": "Hotshot Racing"
- },
-   {
+  },
+  {
     "author": "RubyApps",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/moveordie.zip",
     "title": "Move or Die"
- },
-   {
+  },
+  {
     "author": "Valve",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/portal2.zip",
     "title": "Portal 2"
- },
-   {
+  },
+  {
     "author": "Psyonix",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/rocketleague.zip",
     "title": "Rocket League"
- },
-   {
+  },
+  {
     "author": "Valve",
     "url": "https://github.com/GboardThemes/Soundpack/raw/master/steam.zip",
     "title": "Steam"
- }
+  }
 ]
